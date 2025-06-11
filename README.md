@@ -146,12 +146,6 @@ Replace the following assets with your own:
 
 If you'd like to use this template for your own portfolio website, you are welcome to do so under the following conditions:
 
-### Attribution Requirements
-
-1. **Required Attribution**:
-   - You must maintain the original credit in the footer: "Original design by [Achyut Katiyar](https://github.com/achyut21)"
-   - Keep the attribution link in the README
-
 2. **GitHub Repository**:
    - If you fork or clone this repository, please star the original repository
    - Include a clear statement in your README indicating that your project is based on Achyut Katiyar's portfolio template
@@ -167,42 +161,4 @@ If you'd like to use this template for your own portfolio website, you are welco
 - Sell this template or any derivative work without explicit permission
 - Use my personal information, images, or project details in your version
 
-### Example Attribution
 
-For your website footer:
-```html
-Design inspired by <a href="https://github.com/achyut21" target="_blank" rel="noopener noreferrer">Achyut Katiyar</a>
-```
-
-## Deployment
-
-This portfolio is optimized for deployment on [Vercel](https://vercel.com), but can be deployed to any platform that supports Next.js.
-
-### Deploying to Vercel
-
-1. Push your code to a GitHub repository
-2. Import the repository in Vercel
-3. Set any required environment variables
-4. Deploy!
-
-Vercel will automatically detect that it's a Next.js project and configure the build settings accordingly.
-
-### Deploying Elsewhere
-
-For other platforms, refer to the [Next.js deployment documentation](https://nextjs.org/docs/deployment).
-
-## Credits
-
-- Design & Development: [Achyut Katiyar](https://github.com/achyut21)
-- UI Components: [shadcn/ui](https://ui.shadcn.com/)
-- Icons: [Lucide React](https://lucide.dev/)
-- Animation: [Framer Motion](https://www.framer.com/motion/)
-- 3D Starfield: [Three.js](https://threejs.org/) and [React Three Fiber](https://docs.pmnd.rs/react-three-fiber)
-
-## License
-
-This project is available for personal and educational use with required attribution as detailed in the [Using This Template](#using-this-template) section.
-
----
-
-© 2025 Achyut Katiyar. All Rights Reserved.

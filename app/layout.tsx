@@ -3,28 +3,28 @@ import { ClientLayout } from "./client-layout";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Achyut Katiyar | Full Stack Developer",
+  title: "Bibek Sabat | Full Stack Developer",
   description: "Full Stack Developer & Machine Learning Enthusiast with expertise in Next.js, React, and blockchain technologies.",
-  metadataBase: new URL("https://achyutkatiyar.com"),
+  metadataBase: new URL("https://bibeksabat.com"),
   
   // Basic metadata
-  applicationName: "Achyut Katiyar Portfolio",
-  authors: [{ name: "Achyut Katiyar" }],
+  applicationName: "Bibek Sabat Portfolio",
+  authors: [{ name: "Bibek Sabat" }],
   keywords: ["Full Stack Developer", "Web3", "Blockchain", "Next.js", "React", "Machine Learning"],
   
   openGraph: {
     type: "website",
-    url: "https://achyutkatiyar.com",
-    title: "Achyut Katiyar | Full Stack Developer",
+    url: "https://bibeksabat.com",
+    title: "Bibek Sabat | Full Stack Developer",
     description: "Full Stack Developer & Blockchain and Machine Learning Enthusiast with expertise in Next.js, React, and blockchain technologies.",
-    siteName: "Achyut Katiyar",
+    siteName: "Bibek Sabat Portfolio",
     locale: "en_US",
     images: [
       {
         url: "/images/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Achyut Katiyar - Portfolio",
+        alt: "Bibek Sabat - Portfolio",
       },
     ],
   },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   },
   
   alternates: {
-    canonical: "https://achyutkatiyar.com",
+    canonical: "https://bibeksabat.com",
   },
 };
 
