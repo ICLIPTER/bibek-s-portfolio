@@ -112,6 +112,6 @@ This portfolio website showcases my projects, experience, and skills with a focu
 │   ├── images/                # Images
 │   └── blackhole.webm         # Black hole video for dark mode
 └── package.json               # Project dependencies
-```
+
 
 
